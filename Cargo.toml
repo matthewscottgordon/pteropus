@@ -17,3 +17,4 @@ anyhow = "~1.0"
 futures = "~0.3"
 bytes = "~1.1"
 las = {version="~0.7", features=["laz"]}
+ash = {version="~0.36", features=["linked"]}
